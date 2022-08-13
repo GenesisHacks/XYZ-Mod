@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# Description
 
-## Setup
+Shows both your overworld and nether coordinates on the HUD. While in the end it will show just the end coordinates.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+![overworld](https://cdn-raw.modrinth.com//data/vkWNz53E/images/1bb9d56072841a339c272fb0e5eebd3611d56d03.png)
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+![nether](https://cdn-raw.modrinth.com//data/vkWNz53E/images/6b5e8f166abcc988129bc13ab266f9431ca316c2.png)
